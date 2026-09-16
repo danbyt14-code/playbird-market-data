@@ -6,7 +6,7 @@
       "title": "Stand Bird 1",
       "version": "1.0.0",
       "description": "Динамичный мобильный 3D-шутер от первого лица в стиле Standoff. Классические перестрелки, проработанный интерфейс управления и первая версия культовой серии.",
-      "android_url": "https://github.com",
+      "android_url": "https://github.com/danbyt14-code/playbird-market-data/releases/download/v1.0.0/STAND_BIRD1.6.9.apk",
       "sha256": "2a5f7aa70234fffa1a3b6b185c3d3e72cc27003c826054912fb36005adf85419"
     },
     {
@@ -14,7 +14,7 @@
       "title": "Stand Bird 2",
       "version": "1.0.0",
       "description": "Вторая часть не популярного мобильного шутера. Улучшенная система инвентаря, меню кастомизации скинов, магазин, прокачка уровней и доработанная 3D-механика боя.",
-      "android_url": "https://github.com",
+      "android_url": "https://github.com/danbyt14-code/playbird-market-data/releases/download/v1.0.0/standbird2.3.apk",
       "sha256": "aecd0209898d5562d61fd6b13797138ec7c06c877854cc3a1f683c21709bdb9e"
     }
   ]
