@@ -1,0 +1,13 @@
+{
+  "market_version": "1.0.0",
+  "games": [
+    {
+      "id": "box_buster",
+      "title": "Box Buster",
+      "version": "1.0.0",
+      "description": "Динамичный 3D-шутер от первого лица. Строительство из пенопласта и уничтожение роботов картонным оружием.",
+      "pck_url": "",
+      "has_update": false
+    }
+  ]
+}
