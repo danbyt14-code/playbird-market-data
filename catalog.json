@@ -2,10 +2,18 @@
   "market_version": "1.0.0",
   "games": [
     {
-      "id": "box_buster",
-      "title": "Box Buster",
+      "id": "stand_bird_1",
+      "title": "Stand Bird 1",
       "version": "1.0.0",
-      "description": "Динамичный 3D-шутер от первого лица. Строительство из пенопласта и уничтожение роботов картонным оружием.",
+      "description": "Первая часть приключений Stand Bird. Твоя классическая APK-игра теперь доступна прямо в маркете!",
+      "pck_url": "",
+      "has_update": false
+    },
+    {
+      "id": "stand_bird_2",
+      "title": "Stand Bird 2",
+      "version": "1.0.0",
+      "description": "Вторая часть культовой серии Stand Bird. Еще больше драйва, улучшенный геймплей и новые фичи.",
       "pck_url": "",
       "has_update": false
     }
